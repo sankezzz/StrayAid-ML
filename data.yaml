@@ -1,0 +1,7 @@
+path: C:/Users/sanke/OneDrive/Desktop/The Stray help/dataset
+train: C:/Users/sanke/OneDrive/Desktop/The Stray help/dataset/train
+val: C:/Users/sanke/OneDrive/Desktop/The Stray help/dataset/valid
+test: C:/Users/sanke/OneDrive/Desktop/The Stray help/dataset/test  # Optional
+
+nc: 2  # Number of classes (change as needed)
+names: ["buffalo", "cat","dog","cow","injured","person"]  # Replace with actual class names
